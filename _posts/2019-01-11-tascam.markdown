@@ -9,7 +9,6 @@ img: tascam44.jpg
 * 1-week loan
 * The TASCAM DR-44WL MTR linear PCM recorder includes:
 
-...
 -recorder 
 -AC adapter
 -microSD card 
