@@ -19,5 +19,6 @@ img: tascam44.jpg
 
 >"TASCAM's DR-44WL is the latest recording innovation from TASCAM. It starts with high-quality stereo condenser microphones, updated with a new XY pattern and high-performance mic components. Two locking XLR inputs feed TASCAM's latest microphone preamp design, with the lowest noise level and richest sound available in a portable recorder."--[TASCAM.com.]
 ...
+
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256252" class="btn btn-primary btn-lg">Check Status</a>
 
