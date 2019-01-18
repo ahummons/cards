@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 
 
-#April Hummons(mailto:ahummons@depaul.edu)
+#[April Hummons](mailto:ahummons@depaul.edu
 
 Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
