@@ -1,0 +1,14 @@
+---
+layout: post
+title: Canon DSLR
+categories: jekyll update
+img: canon-rebel.jpg
+---
+#Canon Ready for Checkout
+
+
+1-week loan
+* includes 18mm-55mm lenses
+* includes Rode Mic
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254251" class="btn btn-primary btn-lg">Check Status</a>
+

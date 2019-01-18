@@ -1,0 +1,14 @@
+---
+layout: post
+title: GoPro Hero+ LCD
+categories: jekyll update
+img: Gopro.jpg
+---
+#GoPro Hero+ LCD camera 
+
+Ready for Checkout
+1-week loan 
+* No renewals
+* Accessory pack also available for checkout
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256314" class="btn btn-primary btn-lg">Check Status</a>
+
