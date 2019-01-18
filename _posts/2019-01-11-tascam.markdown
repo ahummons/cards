@@ -9,12 +9,12 @@ img: tascam44.jpg
 * 1-week loan
 * The TASCAM DR-44WL MTR linear PCM recorder includes:
 
--recorder 
--AC adapter
--microSD card 
--USB cable 
--windscreen -
--grip/mic stand adapter -hot shoe adapter and manual..
+--* recorder 
+* AC adapter
+- microSD card 
+- USB cable 
+- windscreen
+- grip/mic stand adapter -hot shoe adapter and manual..
 
 >"TASCAM's DR-44WL is the latest recording innovation from TASCAM. It starts with high-quality stereo condenser microphones, updated with a new XY pattern and high-performance mic components. Two locking XLR inputs feed TASCAM's latest microphone preamp design, with the lowest noise level and richest sound available in a portable recorder."--[TASCAM.com.]
 ...
