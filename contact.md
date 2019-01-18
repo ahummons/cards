@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: mailto:ahummons@depaul.edu
+permalink: https://ahummons.github.io/cards/contact.html
 img: owllibrary.jpg
 ---
 
