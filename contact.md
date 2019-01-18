@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: 
+permalink: /contact/
 img: owllibrary.jpg
 ---
 
