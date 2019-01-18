@@ -2,7 +2,7 @@
 layout: post
 title: GoPro Hero+ LCD
 categories: jekyll update
-img: goPro.jpg
+img: GoPro.jpg
 ---
 ### Now Available GoPro cameras
 * JTR Library has 3 ready for Checkout
