@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: https://ahummons.github.io/cards/contact.html
+permalink: https://ahummons.github.io/cards
 img: owllibrary.jpg
 ---
 
