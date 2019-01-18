@@ -5,9 +5,11 @@ categories: jekyll update
 img: canon-rebel.jpg
 ---
 
-JTR Library has 3 cameras (2) are avilable for a 1-week loan and one is designated for use in [Studio G](https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx)..
+JTR Library has 3 cameras (2) are avilable for a 1-week loan.
+One camera is designated for use in [Studio G](https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx)
+
 * includes 18mm-55mm lenses
 * includes Rode Mic
-...
+___
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254251" class="btn btn-primary btn-lg">Check Status</a>
 
