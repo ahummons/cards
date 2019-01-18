@@ -4,7 +4,7 @@ title: Tascam DR-44WL
 categories: jekyll update
 img: tascam44.jpg
 ---
-## The JTR Library has 3 available for checkout
+### The JTR Library has 3 available for checkout
 
 * 1-week loan
 * The TASCAM DR-44WL MTR linear PCM recorder includes:
