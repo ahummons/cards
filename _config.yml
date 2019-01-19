@@ -25,7 +25,7 @@ copyright:
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 
 paginate_path: /page:num/
 
 # Tracker
