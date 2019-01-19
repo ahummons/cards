@@ -15,5 +15,5 @@ DePaul University has (2) Nintendo Switch consoles available for checkout for a 
 * Travel case
 ...
 
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254741" class="btn btn-primary btn-lg">Check Status</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254741" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
