@@ -25,8 +25,8 @@ copyright:
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
-paginate: 20
+permalink:
+paginate: 5
 paginate_path: cards/page:num/
 
 # Tracker
