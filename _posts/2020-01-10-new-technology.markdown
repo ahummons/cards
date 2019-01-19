@@ -8,5 +8,5 @@ New Loanable Equipment and technology is available for in-house and out of libra
 ..You can check out even more technology at the Access Services Desk at the JTR Library.
 ...
 
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Search/Home?lookfor=Loanable%20equipment%20and%20technology.&type=subject&start_over=1" class="btn btn-primary btn-lg">Search catalog for Loanable Technology</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Search/Home?lookfor=Loanable%20equipment%20and%20technology.&type=subject&start_over=1" target="_blank" class="btn btn-primary btn-lg">Search catalog for Loanable Technology</a>
 
