@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
 img: owllibrary.jpg
 ---
 # [April Hummons](mailto:ahummons@depaul.edu)
