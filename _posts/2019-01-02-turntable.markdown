@@ -2,7 +2,6 @@
 layout: post
 title:  Audio-Technica AT-LP60 USB turntable
 categories: jekyll update
-img: turntable.jpg
 ---
 ### 2-week loan
 Specifications:
