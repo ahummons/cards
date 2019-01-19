@@ -11,5 +11,5 @@ img: GoPro.jpg
 * Accessory pack also available for checkout
 ...
 
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256314" class="btn btn-primary btn-lg">Check Status</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256314" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
