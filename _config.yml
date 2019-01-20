@@ -24,6 +24,9 @@ copyright:
 
 # Build settings
 markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
 
 # Tracker
 analytics: UA-83979019-1
