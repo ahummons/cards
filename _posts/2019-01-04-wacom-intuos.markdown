@@ -2,7 +2,7 @@
 layout: post
 title: Wacom Intuos pro pen & touch tablet 
 categories: jekyll update
-img: intous.jpg
+img: intuos.jpg
 ---
 
 JTR Library has Wacom Intuos pro pen & touch tablet for 5-hour loan in the library.
