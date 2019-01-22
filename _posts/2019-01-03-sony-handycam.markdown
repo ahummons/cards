@@ -14,7 +14,7 @@ Includes:
  - Guide
  - Memory card
  
->"Keep valuable memories fresh for everyone to enjoy with the solid integrity and all-around ease of the CX405 Handycam. Optical SteadyShot with Intelligent Active Mode prevents camera shake and blur from ruining pictures. AVCHD and XAVC S formats ensure faithful and vibrant recordings. It's all so compact and always ready to go. [-- Manufacturer](sony.com)"
+>"Keep valuable memories fresh for everyone to enjoy with the solid integrity and all-around ease of the CX405 Handycam. Optical SteadyShot with Intelligent Active Mode prevents camera shake and blur from ruining pictures. AVCHD and XAVC S formats ensure faithful and vibrant recordings. It's all so compact and always ready to go. [-- Manufacturer](sony.com){:target="_blank"}"
 
 
 
