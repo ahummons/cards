@@ -12,4 +12,4 @@ The USB Turntable works PC or Mac with an available USB port. Includes Audacity 
 
 
 
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256253" class="btn btn-primary btn-lg">Check Status</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256253" targey="_blank" class="btn btn-primary btn-lg">Check Status</a>
