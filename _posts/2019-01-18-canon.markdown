@@ -5,7 +5,7 @@ categories: jekyll update
 img: canon-rebel.jpg
 ---
 
-JTR Library has 3 cameras (2) are avilable for a 1-week loan.
+JTR Library has 3 cameras (2) are available for a 1-week loan.
 One camera is designated for use in [Studio G](https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx)
 
 * includes a 18mm-55mm lens
