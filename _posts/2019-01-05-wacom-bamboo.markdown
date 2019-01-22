@@ -5,7 +5,7 @@ categories: jekyll update
 img: bamboo.jpg
 ---
 
-JTR Library has Wacom Intuos pro pen & touch tablet for 1-week loan.
+JTR Library has (3) Wacom Bamboo fun pen & touch tablets available for 1-week loan.
 Includes:
 
 * Pen & touch tablet
