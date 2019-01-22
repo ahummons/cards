@@ -1,0 +1,17 @@
+---
+layout: post
+title: Blue Yeti microphone
+categories: jekyll update
+img: blueyeti.jpg
+---
+
+JTR Library has (3) Blue Yeti microphones for use with the [1587 Studios](https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx){target=}at the library.
+Includes:
+
+* Microphone
+* Knox pop filter
+* USB cable
+
+> "Create unparalleled recordings with your computer using Blue's best-selling Yeti family of USB microphones. Thanks to our proprietary tri-capsule technology, Yeti microphones produce pristine, studio-quality recordings with legendary ease. And four different pattern settings offer incredible flexibility so you can record vocals, music, podcasts, audio for video, interviews, or even cryptozoology lectures in ways that would normally require multiple microphones. Whether you're recording at home, on the road, or in the Himalayas, Yeti helps you produce studio-quality recordings every time."[--Manufacturer description](https://www.bluedesigns.com/products/yeti/){:target="_blank"}. 
+___
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1255807" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
