@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tascam DR-22WL
+categories: jekyll update
+img: owllibrary.jpg
+---
+### # TASCAM DR-22WL linear PCM recorder
+The JTR Library has (3) available for 1-week loan. 
+
+>"An easy-to-use Portable Recorder with all new Mics and breakthrough Wi-Fi technology. The groundbreaking DR-22WL from TASCAM is the first portable recorder to include Wi-Fi for transport control, file transfer, and audio streaming to your smartphone or PC. Other innovations like the new Scene Dial make it easier than ever to capture great-sounding recordings and share them online. A set of stereo condenser microphones is arranged in true XY pattern for ideal stereo imaging. The eight-position Scene Dial selects recording settings for typical situations, or can be set to full manual for greater control.."--[TASCAM.com.]
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256320" class="btn btn-primary btn-lg">Check Status</a>
