@@ -1,0 +1,14 @@
+---
+layout: post
+title: Nikon D5500 : 18-140 VR kit /
+categories: jekyll update
+img: nikon.jpg
+---
+### Nikon D5500 : 18-140 VR kit 
+The JTR Library has (2) cameras available for 1-week loan. 
+The is also a <a href="" target="_blank" class="btn btn-success">AF-S DX Nikkor 16-80mm f/2.8-4E ED VR lens </a> available for check out separately. 
+
+>"A first for Nikon DSLRs, the D5500 features a touchscreen Vari-angle LCD for exciting new shooting possibilities and easier handling. Flip out the large 3.2-inch display for an interesting new angle, then simply touch where you want to focus and shoot. A new Fn button gives you one-touch access to important settings like aperture, ISO sensitivity, AF mode and more. During playback, pinch to zoom in and check the details. Easily navigate menu items, set video settings and more, all as familiar as operating a smartphone."--[Manufacturer](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5500.html).
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1255136" class="btn btn-primary btn-lg">Check Status</a>
