@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikon D5500 : 18-140 VR kit /
+title: Nikon D5500 : 18-140 VR kit
 categories: jekyll update
 img: nikon.jpg
 ---
