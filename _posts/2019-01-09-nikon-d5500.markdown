@@ -2,7 +2,7 @@
 layout: post
 title: Nikon D5500 18-140 VR kit
 categories: jekyll update
-img: nikon.jpg
+img: nikon.png
 ---
 ### Nikon D5500 18-140 VR kit 
 The JTR Library has (2) cameras available for 1-week loan. 
