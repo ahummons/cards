@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 This temporary static site was built to showcase the new loanable equipment currently available to the DePaul University Community at the University Libraries. 
 
