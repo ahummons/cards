@@ -5,7 +5,7 @@ categories: jekyll update
 img: blueyeti.jpg
 ---
 
-JTR Library has (3) Blue Yeti microphones for use with the <a href="https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx" target="_blank" class="btn btn-warning">1587 Studios</a>.
+JTR Library has (3) Blue Yeti microphones for use with the <a href="https://library.depaul.edu/technology/spaces/Pages/Media-Production-Rooms.aspx" target="_blank" class="btn btn-warning">1587 Studios</a>.
 Includes:
 
 * Microphone
