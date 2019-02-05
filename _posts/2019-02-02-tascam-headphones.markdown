@@ -1,4 +1,3 @@
-﻿
 ---
 layout: post
 title: TASCAM TH-03 Studio Headphones
@@ -10,7 +9,8 @@ img: tascamth03.jpg
 - headphones
 - 1/8" to 1/4" adapter
 
-Available for 1-week loan
+Available for 5-hour loan with Blue Yeti Microphones
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256169" target="_blank" class="btn btn-primary btn-lg">Blue Yeti Microphones</a>
 
 >"Features: lightweight, closed back design ; padded headband and ear cuffs for stylish comfort ; stainless steel framework & adjustable arms" -- TASCAM.com
 
