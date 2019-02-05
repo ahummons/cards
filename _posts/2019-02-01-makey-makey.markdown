@@ -2,7 +2,7 @@
 layout: post
 title: Makey Makey
 categories: jekyll update
-img: makeymakey.jpg
+img: makeymakey.JPG
 ---
 ### Makey Makey includes:
 
