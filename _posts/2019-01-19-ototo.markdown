@@ -1,0 +1,21 @@
+﻿
+---
+layout: post
+title: Ototo Musical Invention Kit
+categories: jekyll update
+img: ototo.jpg
+---
+### The Ototo Musical Invention Kit includes:
+
+- Ototo circuit board synthesizer
+- 3 sensors (light, rotation, slider)
+- 12 alligator cables
+- 3 sensor cables
+- illustrated guide
+
+Available for 1-week loan
+
+>"Ototo is an all-in-one musical invention kit which allows you to make an instrument any way you want." --[Kickstarter](https://www.kickstarter.com/projects/905018498/ototo-make-music-from-anything)
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1231762" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
