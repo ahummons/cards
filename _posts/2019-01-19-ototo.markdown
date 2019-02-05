@@ -1,9 +1,8 @@
-﻿
 ---
 layout: post
 title: Ototo Musical Invention Kit
 categories: jekyll update
-img: ototo.jpg
+img: ototo.JPG
 ---
 ### The Ototo Musical Invention Kit includes:
 
