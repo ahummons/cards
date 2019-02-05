@@ -2,7 +2,7 @@
 layout: post
 title: TASCAM TH-03 Studio Headphones
 categories: jekyll update
-img: tascamth03.jpg
+img: tascamth03.JPG
 ---
 ### The TASCAM TH-03 Studio Headphones includes:
 
