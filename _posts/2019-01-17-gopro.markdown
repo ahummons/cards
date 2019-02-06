@@ -13,7 +13,7 @@ img: gopro.JPG
 #### Product notes:
 
 1080p60 and 720p60 video, SuperView, Auto Low Light, Hi Light Tag, Quick Capture, built-in Wi-Fi and Bluetooth supports the GoPro App
----
+
 
 > "Lightweight and small, this all-in-one camera is designed for action and adventure video/photography, while protected in shockproof and waterproof housing".
 
