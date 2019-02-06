@@ -2,14 +2,19 @@
 layout: post
 title: GoPro Hero+ LCD
 categories: jekyll update
-img: GoPro.jpg
+img: gopro.JPG
 ---
-### Now Available GoPro cameras
-* JTR Library has 3 ready for Checkout
+### Now Available GoPro Hero cameras
+* JTR Library has 2 ready for Checkout
 * 1-week loan 
 * No renewals
-* Accessory pack also available for checkout
 ...
+Coming Soon Accessory pack
+
+#### Produce notes:
+1080p60 and 720p60 video, SuperView, Auto Low Light, Hi Light Tag, Quick Capture, built-in Wi-Fi and Bluetooth supports the GoPro App
+
+> "Lightweight and small, this all-in-one camera is designed for action and adventure video/photography, while protected in shockproof and waterproof housing".
 
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256314" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
