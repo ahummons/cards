@@ -1,20 +1,26 @@
 ---
 layout: post
-title: Canon DSLR
+title: Canon EOS Rebel T6i video creator kit 
 categories: jekyll update
 img: canon-rebel.jpg
 ---
+### Canon EOS Rebel T6i video creator kit 
+The JTR Library has 3 cameras (2) are available for a 1-week loan.
+One camera is designated strictly for use in 
+<a href="https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx" target="_blank" class="btn btn-info">Studio G </a>
 
-JTR Library has 3 cameras (2) are available for a 1-week loan.
-One camera is designated for use in 
-<a href="https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx" target="_blank" class="btn btn-warning">Studio G </a>
-
+The Canon EOS Rebel T6i video creator kit 
 * includes a 18mm-55mm lens
 * includes Rode Mic
+
+Addtional lenses are also available for checkout:
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1255405" target="_blank" class="btn btn-succcess">Canon EFS 55-250mm f/4-5.6 IS STM lens </a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256318" target="_blank" class="btn btn-succcess">Canon EF 85mm f/1.8 Lens </a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256317" target="_blank" class="btn btn-succcess">Sigma 30mm f1.4 DC Lens </a>
+
 
 > "The EOS Rebel T6i does more, easier, making capturing photos and shooting videos a breeze. Its high-resolution 24.2 Megapixel CMOS (APS-C) sensor means finely detailed, crisp and natural-looking photographs. The VideoMic GO™ is a lightweight, easy to use, directional microphone that picks up clear audio in front of it, reducing surrounding sound and isolating your subject from background noise. The built-in shock mount reduces noise from handling and a foam windshield reduces wind noise. Mount the VideoMic GO™ on the camera's hotshoe, plug in the 1/8" (3.5mm) plug, insert the SDHC card and you're ready to start shooting!"--Manufacturer description. 
 
 
 
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254251" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
-
