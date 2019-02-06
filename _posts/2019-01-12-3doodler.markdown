@@ -1,0 +1,24 @@
+﻿---
+layout: post
+title: 3Doodler 2.0
+categories: jekyll update
+img: 3doodler2.jpg
+---
+### The 3Doodler 2.0 includes:
+
+  
+- 3Doodler 2.0 pen
+- power adapter
+- cleaning tool
+- nozzle removal tool
+- mini screwdriver
+- spare maintenance cover
+- quick start & user guide
+- 3Doodler plastic
+
+Available for 1-week loan
+
+>"Compact and easy to use, the 3Doodler extrudes heated plastic that cools almost instantly into a solid, stable structure. The possibilities are limited only by your imagination!" -- the3doodler.com
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1231760" target="-blank" class="btn btn-primary btn-lg">Check Status</a>
