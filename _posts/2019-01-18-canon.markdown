@@ -7,15 +7,22 @@ img: canon-rebel.jpg
 ### Canon EOS Rebel T6i video creator kit 
 The JTR Library has 3 cameras (2) are available for a 1-week loan.
 One camera is designated strictly for use in 
+
+
 <a href="https://library.depaul.edu/technology/spaces/Pages/Studio-G.aspx" target="_blank" class="btn btn-info">Studio G </a>
 
 The Canon EOS Rebel T6i video creator kit 
 * includes a 18mm-55mm lens
 * includes Rode Mic
 
-Addtional lenses are also available for checkout:
+Additional lenses are also available for checkout:
+
+
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1255405" target="_blank" class="btn btn-success">Canon EFS 55-250mm f/4-5.6 IS STM lens </a>
+
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256318" target="_blank" class="btn btn-success">Canon EF 85mm f/1.8 Lens </a>
+
+
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256317" target="_blank" class="btn btn-success">Sigma 30mm f1.4 DC Lens </a>
 
 
