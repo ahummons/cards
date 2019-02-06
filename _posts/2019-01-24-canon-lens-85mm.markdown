@@ -10,6 +10,8 @@ img: canon-lens-85mm.jpg
 - instruction sheet
 
 Available for 1-week loan
+
+
 We also have 3 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254251" target="_blank" class="btn btn-info">Canon EOS Rebel T6i video creator kits </a> available for checkout.
 
 >"A highly practical medium telephoto lens with superb delineation and portability. Images are sharp and clear at all apertures. Through computer simulations, the lens has been designed to give beautiful background blur. Since the front lens group does not rotate during focusing special filter effects are not affected." -- usa.canon.com
