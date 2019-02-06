@@ -10,7 +10,7 @@ img: tascamth03.JPG
 - 1/8" to 1/4" adapter
 
 Available for 5-hour loan with
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256169" target="_blank" class="btn btn-success btn-lg">Blue Yeti Microphones</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256169" target="_blank" class="btn btn-success">Blue Yeti Microphones</a>
 
 >"Features: lightweight, closed back design ; padded headband and ear cuffs for stylish comfort ; stainless steel framework & adjustable arms" -- TASCAM.com
 
