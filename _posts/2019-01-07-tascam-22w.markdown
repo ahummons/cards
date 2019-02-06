@@ -2,7 +2,7 @@
 layout: post
 title: Tascam DR-22WL
 categories: jekyll update
-img: owllibrary.jpg
+img: tascam-22.jpg
 ---
 ### TASCAM DR-22WL linear PCM recorder
 The JTR Library has (3) available for 1-week loan. 
