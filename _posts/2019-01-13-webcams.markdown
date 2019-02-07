@@ -1,0 +1,18 @@
+---
+layout: post
+title: Logitech HD 1080p Webcams
+categories: jekyll update
+img: webcam.jpg
+---
+### The Logitech HD 1080p Webcams includes:
+
+-   webcam with attached 5ft USB cable
+
+Available for 5-hour loan
+
+** Notes: Webcams are available at the Loop and Lincoln Park campus libraries. Webcams are not supported by Classroom Technology.
+
+>"Logitech HD 1080p webcams with built-in microphone, attached 5-foot cable, and Logitech webcam software v2.2 featuring Logitech Vid HD".
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1174678" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
