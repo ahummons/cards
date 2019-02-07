@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RØDE NTG2 dual powered directional condenser microphone
+title: RØDE NTG2 microphone
 categories: jekyll update
 img: rode-ntg2.jpg
 ---
