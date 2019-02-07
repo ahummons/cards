@@ -8,7 +8,7 @@ img: logitechusb.jpg
 
 -   microphone headset
 
-Available for 1-week loan
+Available for 5-hour loan in library use only. 
 
 >"USB headset with rotating, noise-canceling boom microphone. Over-the-head style. In-line volume and mute controls. Padded earcups. "Works with Skype Yahoo! Windows Live AIM." --Logitech.com.
 
