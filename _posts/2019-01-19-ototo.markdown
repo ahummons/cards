@@ -1,8 +1,9 @@
+﻿
 ---
 layout: post
 title: Ototo Musical Invention Kit
 categories: jekyll update
-img: ototo.JPG
+img: ototo.jpg
 ---
 ### The Ototo Musical Invention Kit includes:
 
@@ -12,7 +13,7 @@ img: ototo.JPG
 - 3 sensor cables
 - illustrated guide
 
-Available for 1-week loan
+Available for 2-week loan
 
 >"Ototo is an all-in-one musical invention kit which allows you to make an instrument any way you want." --[Kickstarter](https://www.kickstarter.com/projects/905018498/ototo-make-music-from-anything)
 

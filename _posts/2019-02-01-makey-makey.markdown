@@ -1,8 +1,9 @@
+﻿
 ---
 layout: post
 title: Makey Makey
 categories: jekyll update
-img: makeymakey.JPG
+img: makeymakey.jpg
 ---
 ### Makey Makey includes:
 
@@ -13,7 +14,7 @@ img: makeymakey.JPG
 - instructions sheet
 - stickers
 
-Available for 1 week loan
+Available for 2-week loan
 
 >"Makey Makey is an invention kit for the 21st century. Turn everyday objects into touchpads and combine them with the internet. It's a simple Invention Kit for Beginners and Experts doing art, engineering, and everything in between. Better for more complicated projects using multiple buttons."--[makeymakey.com]
 

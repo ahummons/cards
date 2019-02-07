@@ -1,0 +1,22 @@
+﻿---
+layout: post
+title: Sphero SPRK Edition
+categories: jekyll update
+img: sphero.jpg
+---
+### The Sphero SPRK Edition includes:
+
+  
+- robot (Sphero SPRK)
+- guide
+- charging base
+- AC power adapter with US and 3 international plugs
+- genius kit with a protractor, notebook and pencil.
+
+Available for 2-week loan
+
+>"Designed to inspire curiosity, creativity, and invention through connected play and coding, SPRK is far more than just a robot."--[sphero.com.]
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1231701" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
+

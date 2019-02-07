@@ -20,7 +20,7 @@ img: little-bits.jpg
 - battery and cable
 - project manual
 
-Available for 1-week loan
+Available for 2-week loan
 
 >"LittleBits ... consists of tiny circuit-boards with specific functions engineered to snap together with magnets. No soldering, no wiring, no programming, just snap together for prototyping, learning and fun. Each bit has a specific function (light, sound, sensors, buttons, thresholds, pulse, motors, etc), and modules snap to make larger circuits. ... littleBits are small, simple, intuitive, blocks that make creating with sophisticated electronics a matter of snapping small magnets together." -- littlebits.com.
 
