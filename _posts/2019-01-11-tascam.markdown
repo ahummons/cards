@@ -2,7 +2,7 @@
 layout: post
 title: Tascam DR-44WL 
 categories: jekyll update
-img: tascam44.jpg
+img: tascam-44wl.jpg
 ---
 ### The TASCAM DR-44WL MTR linear PCM recorder includes:
 
