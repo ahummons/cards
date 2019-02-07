@@ -14,7 +14,7 @@ img: mxl-microphone.jpg
 
 Available for 1-week loan. 
 
-**Notes: 
+#### Notes: 
 - Bit depth: 16-bit. 
 - Sample rate: 44.1 kHz and 48 kHz. 
 - Polar pattern: cardioid. 
