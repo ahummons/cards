@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Ototo Musical Invention Kit
 categories: jekyll update
