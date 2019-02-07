@@ -11,7 +11,9 @@ img: tascam-44wl.jpg
 - microSD card 
 - USB cable 
 - windscreen
-- grip/mic stand adapter -hot shoe adapter and manual
+- grip/mic stand adapter 
+- hot shoe adapter
+- manual
 
 Available for 1-week loan
 
