@@ -16,18 +16,13 @@ img: 3d-scanner.jpg
 
 Available for 1-week loan. 
 
-**Notes: 
+*** Notes: 
 - Operating temperature: 15°-32° C (60°-90°F)
 - Model number: MFS1V1 
 
 > "The Matter and Form Desktop 3D Scanner captures high resolution, scans. Its sleek, foldable design means it doesn't take up space on your desk. This scanner is one of the most widely adopted 3D scanners among research professionals and hobbyists alike." 
 
 
-<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1283492" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256644" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
 
-
-
-
-
-https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1283492
