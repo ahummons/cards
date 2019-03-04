@@ -4,7 +4,7 @@ title: New technology
 categories: jekyll update
 img: new-technology.jpg
 ---
-New Loanable Equipment and technology is available for in-house and out of library use. Most items circulation for 1-2 weeks. Certain items must stay in the library. 
+New Loanable Equipment and technology is available for in-house and out of library use. Most items circulate for 1-2 weeks. Certain items must stay in the library. 
 ..You can check out even more technology at the Access Services Desk at the JTR Library.
 ...
 
