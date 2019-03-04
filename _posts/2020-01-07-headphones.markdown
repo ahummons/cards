@@ -7,8 +7,10 @@ img: headphones.jpg
 ### Headphones
 The JTR Library has variety of headphones available for use in the library.  
 
+Headphones are available for a 5-hour loan period.
+
 Some of the <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_835368" target="_blank" class="btn btn-success"> Headphones </a> models include:
-* 	Audio-Technica ATH-M20X 
+* Audio-Technica ATH-M20X 
 * Califone
 * Koss UR20
 * Sony MDRZX110
