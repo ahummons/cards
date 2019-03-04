@@ -4,12 +4,21 @@ title: GoPro Hero+ LCD
 categories: jekyll update
 img: gopro.JPG
 ---
-### Now Available GoPro Hero cameras
-* JTR Library has 2 ready for Checkout
-* 1-week loan 
-* No renewals
+### GoPro Hero+ LCD cameras include:
+
+* camera
+* skeleton backdoor
+* touch backdoor
+* curved adhesive mount
+* flat adhesive mount
+* mounting buckle
+* quick-release mount
+* USB Cable
+* Guide
+* Memory Card
 * Coming Soon Accessory pack
 
+Available for 1-week loan
 
 #### Product notes:
 
