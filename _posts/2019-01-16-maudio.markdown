@@ -2,7 +2,7 @@
 layout: post
 title: M-Audio MIDI Keyboard 25 MV ID
 categories: jekyll update
-img: maudio.jpg
+img: maudio.JPG
 ---
 ### The M-Audio Oxygen 25 MK IV MIDI Keyboard includes:
  
