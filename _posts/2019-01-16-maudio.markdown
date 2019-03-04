@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: M-Audio MIDI Keyboard 25 MV ID
 categories: jekyll update
