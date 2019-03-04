@@ -4,7 +4,7 @@ title: Apple 87W USB-C (MacBook Charger)
 categories: jekyll update
 img: mackbook-usbc-charger.jpg
 ---
-### The Apple 87W USB-C power adapter (MacBook Charger) 
+### The Apple 87W USB-C power adapter
 
 This MacBook charger is compatible with the following products:
 
