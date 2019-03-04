@@ -10,10 +10,11 @@ img: maudio.jpg
 - USB cable in a carrying bag
 - safety instructions
 - quickstart guide
+- [M-Audio ProTools set-up](https://m-audio.com/kb/article/1674)
+- [M-Audio Direct Link set-up](https://m-audio.com/kb/article/1686)
 
 Available for 1-week loan
-[M-Audio ProTools set-up](https://m-audio.com/kb/article/1674)
-[M-Audio Direct Link set-up](https://m-audio.com/kb/article/1686)
+
 
 #### Requirements:
 - Macintosh: 1.25 GHz G4/G5 or faster (Intel Mac recommended), 1 GB RAM (2 GB recommended), Mac OS X 10.4.11 (10.5 or later recommended)
