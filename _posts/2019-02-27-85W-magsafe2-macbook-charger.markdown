@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Apple 85W MagSafe 2 power adapter and AC extension cable (MacBook Charger)
+title: Apple 85W MagSafe 2 (MacBook Charger)
 categories: jekyll update
 img: mackbook-magsafe2-charger.jpg
 ---
-### The Apple 85W MagSafe 2 power adapter and AC extension cable (MacBook Charger) compatible with the following products:
+### The Apple 85W MagSafe 2 power adapter and AC extension cable
+
+This MacBook Charger is compatible with the following products:
 
 - MacBook Pro (Retina, 15 inch, Mid 2015)
 - MacBook Pro (Retina, 15-inch, Mid 2014)
