@@ -16,7 +16,7 @@ img: xbox-one-s.jpg
 
 Available for 2-week loan.
 Must be returned to the Lincoln Park Campus library.
-...
+
 
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1256676" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
