@@ -1,0 +1,25 @@
+﻿---
+layout: post
+title: M-Audio MIDI Keyboard 25 MV ID
+categories: jekyll update
+img: maudio.jpg
+---
+### The M-Audio Oxygen 25 MK IV MIDI Keyboard includes:
+ 
+- keyboard
+- USB cable in a carrying bag
+- safety instructions
+- quickstart guide
+
+Available for 1-week loan
+[M-Audio ProTools set-up](https://m-audio.com/kb/article/1674)
+[M-Audio Direct Link set-up](https://m-audio.com/kb/article/1686)
+
+#### Requirements:
+- Macintosh: 1.25 GHz G4/G5 or faster (Intel Mac recommended), 1 GB RAM (2 GB recommended), Mac OS X 10.4.11 (10.5 or later recommended)
+- Windows: 1.5 GHz Pentium 4 or Celeron compatible CPU or faster (multicore CPU recommended), 1 GB RAM (2 GB recommended), Windows 10, Windows 8, Windows 7, Windows Vista or Windows XP, Windows compatible sound card (ASIO driver support recommended), QuickTime recommended
+
+>  "With an array of assignable knobs, pads, and a fader, Oxygen 25 gives you total control over your software, allowing you to stay engaged in the creative flow of recording and mixing music without ever reaching for the mouse. It features 25 velocity-sensitive keys for playing chords, bass lines, and melodies; eight assignable knobs for tweaking effect plugins and virtual instruments; eight velocity-sensitive pads for triggering samples or finger drumming; and an assignable fader that is ideal for controlling the master output or mixing tracks together. Oxygen 25 also has dedicated transport controls and track-up and -down buttons that allow you to initiate play, stop, and record in the DAW environment right from your keyboard controller." -- Amazon.com.
+
+
+<a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1236340/Holdings" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
