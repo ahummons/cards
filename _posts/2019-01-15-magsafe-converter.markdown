@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Magsafe to Magesafe 2 Converter
 categories: jekyll update
