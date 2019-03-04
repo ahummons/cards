@@ -14,7 +14,7 @@ img: 3d-scanner.jpg
 - Frog
 - Instructions
 
-Available for 1-week loan. 
+Available for 2-week loan. 
 
 #### Notes: 
 - Operating temperature: 15°-32° C (60°-90°F)
