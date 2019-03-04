@@ -4,7 +4,7 @@ title: Magsafe to Magesafe 2 Converter
 categories: jekyll update
 img: magsafe-converter.jpg
 ---
-### The Magsafe to Magsafe 2 Converter includes:
+### The Magsafe to Magsafe 2 Converter:
 
 - Converts the magsafe connection on older model MacBook Chargers to be used with newer model MacBooks. 
 
