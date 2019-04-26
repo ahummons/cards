@@ -9,7 +9,9 @@ This temporary static site was built to showcase the new loanable equipment curr
 Visit us at  [DePaul University Library](https://library.depaul.edu/Pages/default.aspx){: target="_blank"} for information.
 
 Don't forget to checkout the Maker Hub and 1587 Studios. 
-[Technology Workspaces at the Richardson Library](https://library.depaul.edu/technology/spaces/Pages/default.aspx)
+
+<a href="https://library.depaul.edu/technology/spaces/Pages/default.aspx" target="_blank" class="btn btn-primary btn-lg">Technology Workspaces at the Richardson Library</a>
+
 
 <a  class="github-button"  href="https://github.com/ahummons" aria-label="Star ahummons on GitHub">Github</a>
 
