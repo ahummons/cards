@@ -16,8 +16,10 @@ img: switch.jpg
 
 DePaul University has (2) two Nintendo Switch consoles available for checkout, one at the each campus.
 Available for a 2-week loan. 
+
+You can also Checkout [Nintendo Switch videogames](https://vufind.carli.illinois.edu/vf-dpu/Search/Home?lookfor=%22nintendo+switch%22+games&type=all&start_over=1&submit=Find&search=new){: target="_blank"} at the library.
+
 Learn more about the [Nintendo Switch](https://www.nintendo.com/switch/features/). 
-...
 
 <a href="https://vufind.carli.illinois.edu/vf-dpu/Record/dpu_1254741" target="_blank" class="btn btn-primary btn-lg">Check Status</a>
 
